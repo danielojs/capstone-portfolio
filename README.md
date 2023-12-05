@@ -1,2 +1,2 @@
-# html-portfolio
+# capstone-portfolio
 first-coding-project
